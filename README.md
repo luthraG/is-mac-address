@@ -17,7 +17,7 @@ var MAC_ADDRESS = require('is-mac-address')
 MAC_ADDRESS.isMACAddress('invalid-str')
 // => false
 
-MAC_ADDRESS.isMACAddress('aa-cc-bb-kk-ee-ff')
+MAC_ADDRESS.isMACAddress('10:10:10:10:11:09')
 // => true
 
 MAC_ADDRESS.isMACAddress([])
