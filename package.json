@@ -1,0 +1,28 @@
+{
+  "name"          : "is-mac-address",
+  "version"       : "1.0.0",
+  "description"   : "Checks if the given string is valid mac address",
+  "license"       : "MIT",
+  "repository"    : "https://github.com/luthraG/is-mac-address.git",
+  "author"        : {
+    "name"        : "Gaurav Luthra",
+    "email"       : "luthra.zenith@gmail.com"
+  },
+  "dependencies"  : {
+    "node-ratify" : "1.0.5"
+  },
+  "engines"       : {
+    "node"        : ">=0.10.0"
+  },
+  "files"         : [
+    "index.js"
+  ],
+  "keywords"      : [
+    "mac",
+    "mac-address",
+    "mac address",
+    "valid",
+    "valid mac address",
+    "validation"
+  ]
+}
