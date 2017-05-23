@@ -27,7 +27,9 @@ MAC_ADDRESS.isMACAddress([])
 
 ### Clone the repo
 
-git clone https://github.com/luthraG/is-mac-address.git
+```bash
+$ git clone https://github.com/luthraG/is-mac-address.git
+```
 
 ### API
 
