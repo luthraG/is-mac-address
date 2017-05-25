@@ -1,6 +1,6 @@
 {
   "name"          : "is-mac-address",
-  "version"       : "1.0.3",
+  "version"       : "1.0.4",
   "description"   : "Checks if the given string is valid mac address",
   "license"       : "MIT",
   "repository"    : "https://github.com/luthraG/is-mac-address.git",
@@ -9,7 +9,7 @@
     "email"       : "luthra.zenith@gmail.com"
   },
   "dependencies"  : {
-    "node-ratify" : "1.0.5"
+    "node-ratify" : "~1.1.0"
   },
   "engines"       : {
     "node"        : ">=0.10.0"
